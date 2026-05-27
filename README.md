@@ -110,7 +110,7 @@ Connected Power BI directly with the MySQL database to create an interactive bus
 
 # 📈 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
